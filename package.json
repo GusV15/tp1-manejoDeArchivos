@@ -1,0 +1,15 @@
+{
+  "name": "tp1_manejodearchivos",
+  "version": "1.0.0",
+  "description": "File Management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
